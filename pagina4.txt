@@ -1,0 +1,133 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<title> pagina4.html </title>
+</head>
+
+<body background="6fondo.jpg">
+
+<font size=3 color=black face="Arial">
+<ol type="1" start="5">
+<li><strong><a href="#Italia">Italia</a></strong>
+<li><strong><a href="#M&eacute;xico">M&eacute;xico</a></strong>
+<li><strong><a href="#Rango">Rango</a></strong>
+</ol></font>
+
+<p align=center>
+<img src="56.jpg" width="350" height="220">
+</img> </p align>
+
+<hr size="10"></hr>
+
+
+<font size=3 color=black face="Arial">
+<ol type="1" start="5">
+<li><strong><a id="Italia">Italia</a></strong><p align="justify"><img src="italia.jpg" width="350" height="200" align="right">En quinto lugar, Italia, con 62 millones de viajeros internacionales, un 7% m&aacute;s que en 2018. Un pa&aacute;s fascinante con mucho que ofrecer: ciudades del norte como Venecia o Padua, la Toscana, N&aacute;poles y, como no, la impresionante Roma. Italia es uno de los pa&iacute;ses preferidos para el turismo y las vacaciones de cualquier tipo. Para quienes aman el arte y la cultura les esperan miles de tesoros; los fan&aacute;ticos del sol y la playa encontrar&aacute;n a lo largo de toda la costa unas hermosas playas bien cuidadas y provistas de instalaciones tur&iacute;sticas y para aquellos a quienes les gusta escalar o los paseos por las monta&ntilde;as tendr&aacute;n las zonas monta&ntilde;osas que pueden satisfacer sus expectativas con excursiones y toda la belleza de la naturaleza alpina. Un viaje por Italia es siempre un recorrido art&iacute;stico. Italia guarda tantos tesoros art&iacute;sticos extendidos por todo el pa&iacute;s que se puede considerar una galer&iacute;a de arte al aire libre. Ning&uacute;n otro pa&iacute;s del mundo puede hacer alarde de los tesoros de arte y de cultura que tiene Italia. M&aacute;s de la mitad del patrimonio hist&oacute;rico-art&iacute;stico del mundo se encuentra en este pa&iacute;s, y en cada pueblo se encuentra un testimonio inestimable de la historia. Italia goza de un gran patrimonio hist&oacute;rico construido a lo largo de los siglos: los griegos de Sicilia, los etruscos de la Toscana, los romanos del Latium, los bizantinos de Palermo, los normandos de la Italia meridional, los artistas del Renacimiento, los palacios barrocos... E incluso la arquitectura contempor&aacute;nea. El pa&iacute;s atrae principalmente a los amamantes del turismo cultural.
+</p align></ol></font></img>
+
+
+<p align="right">
+<a href="pagina4.html"><button>Inicio</button></a>
+</p align="right">
+
+<hr size="10"></hr>
+
+
+<font size=3 color=black face="Arial">
+<ol type="1" start="6">
+<li><strong><a id="M&eacute;xico">M&eacute;xico</a></strong><p align="justify"><img src="mexico.jpg" width="350" height="200" align="left">41 millones de visitantes internacionales (un 5% m&aacute;s que el a&ntilde;o anterior) fueron recibidos por M&eacute;xico, desde la Riviera Maya y el crucerista caribe mexicano a los edificios coloniales y cantinas de Guanajuato y San Miguel de Allende, son olvidar la extensa Baja California. M&eacute;xico es el l&iacute;der latinoamericano en materia de turismo. M&eacute;xico ocupa el sexto lugar en turismo a nivel mundial y no es una casualidad. Este sitio lo tiene todo; gastronom&iacute;a &uacute;nica, experiencias culturales de distintos tipos, ecosistemas diversos, monumentos arquitect&oacute;nicos fascinantes y mucha gente hospitalaria que ha reinventado de mil formas sus ra&iacute;ces y sabe c&oacute;mo explicarlas. De norte a sur encontramos pueblitos m&aacute;gicos, playas, ciudades, museos y muchos m&aacute;s destinos y puntos de inter&eacute;s que hacen de nuestra naci&oacute;n un atractivo para quienes quieren salir de sus pa&iacute;ses y dar un vistaso a la belleza mexicana. Por su carga simb&oacute;lica en la cultura mexicana, leyendas, historia o simplemente la magia que emana de sus rincones, son 111 las comunidades en todo M&eacute;xico que cuentan con esta denominaci&oacute;n que se convierte en un atractivo tur&iacute;stico para mexicanos y extranjeros. En M&eacute;xico es reconocido el alto potencial y riqueza de recursos naturales y culturales, la imagen de ser un pa&iacute;s megadiverso a nivel mundial ha generado amplias expectativas en torno al turismo.
+</p></p align></ol></font></img>
+
+
+<p align="right">
+<a href="pagina4.html"><button>Inicio</button></a>
+</p align="right">
+
+<hr size="10"></hr>
+
+
+<font size=3 color=black face="Arial">
+<ol type="1" start="7">
+<li><strong><a id="Rango">Rango</a></strong>
+
+<center><table border=2>
+<tr>
+<th colspan="6">Pa&iacute;ses m&aacute;s visitados por turistas internacionales</th>
+</tr>
+
+<tr>
+<th colspan="2"><center>Posici&oacute;n</center></th>
+<th rowspan="2"><center>Pa&iacute;s</th></center>
+<th rowspan="2"><center>Regi&oacute;n</th></center>
+<th colspan="2"><center>Turistas internacionales</th></center>
+</tr>
+
+<tr>
+<th><center>mundial</th></center>
+<th><center>continental</th></center>
+<th><center>2018</th></center>
+<th><center>2017</th></center>
+</tr>
+
+<tr>
+<td colspan="2"><center>1</center></td>
+<td><center>Francia</center></td>
+<td rowspan="2"><center>Europa</center></td>
+<td><center>89.4 millones</center></td>
+<td><center>85.8 millones</center></td>
+</tr>
+
+<tr>
+<td colspan="2"><center>2</center></td>
+<td><center>Espa&ntilde;a</center></td>
+<td><center>82.7 millones</center></td>
+<td><center>81.9 millones</center></td>
+</tr>
+
+<tr>
+<td><center>3</center></td>
+<td rowspan="2"><center>1</center></td>
+<td><center>Estados Unidos</center></td>
+<td><center>Am&eacute;rica</center></td>
+<td><center>79.6 millones</center></td>
+<td><center>75.9 millones</center></td>
+</tr>
+
+<tr>
+<td><center>4</center></td>
+<td><center>China</center></td>
+<td><center>Asia</center></td>
+<td><center>62.9 millones</center></td>
+<td><center>60.7 millones</center></td>
+</tr>
+
+<tr>
+<td><center>5</center></td>
+<td><center>3</center></td>
+<td><center>Italia</center></td>
+<td><center>Europa</center></td>
+<td><center>62.1 millones</center></td>
+<td><center>58.2 millones</center></td>
+</tr>
+
+<tr>
+<td><center>6</center></td>
+<td><center>2</center></td>
+<td><center>M&eacute;xico</center></td>
+<td><center>Am&eacute;rica</center></td>
+<td><center>41.4 millones</center></td>
+<td><center>39.3 millones</center></td>
+</tr>
+
+</table></center>
+
+
+<p align="right">
+<a href="pagina4.html"><button>Inicio</button></a>
+</p align="right">
+
+
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head>
+
+<frameset rows="10%,80%">
+<frame name="a" src="pagina6.html" noresize="true">
+<frameset cols="85%,15%">
+<frame name="b" src="pagina1.html" noresize="true">
+<frame name="c" src="pagina5.html" noresize="true">
+</frameset>
+
+</head>
+</html>
